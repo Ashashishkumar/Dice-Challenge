@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(98, 231, 231);
+    text-align: center;
+    font-style:oblique;
+
+
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+h1 {
+    color: rgb(98, 231, 231);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lobster', cursive
+}
+p{
+    color : rgb(98, 231, 231);
+    font-size: 2rem;
+    font-family: 'Lobster', cursive
+}
+footer{
+    text-align: center;
+    
+}
+img{
+    width: 80%;
+}
+.container {
+     width: 70%;
+     margin: auto;
+     text-align: center;
+    }
+.dice {
+    text-align: center;
+    display:inline-block;      
+               
+
+}
+.kit{
+
+margin: auto;
+}
